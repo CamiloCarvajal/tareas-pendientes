@@ -1,0 +1,41 @@
+.task-box {
+    /* margin: ; */
+    padding: 5px;
+    width: 80%;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.input-task {
+    /* width: -moz-available */
+    padding: 3px;
+    height: 28px;
+    width: 300px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* border-style: none; */
+    border-bottom: 2px solid chocolate; 
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.complete-task {
+    background-color: rgb(38, 143, 55);
+}
+
+.delete-task {
+    background-color:rgb(192, 59, 59);
+}
+
+.task-box button {
+    
+    font-size: 15px;
+    color: white;
+    border-radius: 6px;
+    width: 80px;
+    height: 28px;
+    /* border-style: solid; */
+}
